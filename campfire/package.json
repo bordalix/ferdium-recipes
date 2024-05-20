@@ -1,0 +1,10 @@
+{
+  "id": "campfire",
+  "name": "Campfire",
+  "version": "1.0.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://chat.vulpem.com/rooms/1",
+    "hasNotificationSound": true
+  }
+}
